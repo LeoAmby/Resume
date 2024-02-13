@@ -1,3 +1,3 @@
-**My Resume
+# My Resume
 
 Are you looking for an experienced Fulstack Software Engineer with vast skills in both frontend and backend development? I am here to cater for your needs. Your search has come to an end. This is a web based version of my curriculum vitae, showcasing my studies, expertise, work experience and goals. It is exciting and fun to go through. I intend to incorporate all technologies that I am familiar with and therefore, it is still under continous improvements and revamp. 
